@@ -1,0 +1,25 @@
+body{
+background-color: #FAEBD7;
+}
+fieldset{
+	width:400px;
+	margin-left:400px;
+	margin-top: 250px;
+	background-color: #008080;
+	color: #00008B;
+	box-shadow: 10px 5px 5px black;
+	border-radius: 15px;
+}
+#vald{
+	border-radius: 8px;
+}
+#vald:hover{
+	background-color: #DAA520;
+}
+legend{
+	font-size: 3em;
+	
+}
+#age{
+	border-radius: 8px;
+}
